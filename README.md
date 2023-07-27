@@ -1,7 +1,6 @@
 # TP_bibliotheque
 
 Exemple POST Auteurs: 
-
 {
   "id": 4,
   "nom": "Tolkien",
@@ -10,13 +9,11 @@ Exemple POST Auteurs:
 }
 
 Exemple POST Categories:
-
 {
   "genre": "Fantastique"
 }
 
 Exemple POST Livres:
-
 {
   "title": "Le seigneur des anneaux",
   "auteur" : {"id" : 4},
